@@ -1,0 +1,28 @@
+{
+  "studenti": [
+    {
+      "id": 1,
+      "ime": "Marko",
+      "prezime": "Markovic",
+      "godina": 1
+    },
+    {
+      "id": 1,
+      "ime": "Petar",
+      "prezime": "Petrovic",
+      "godina": 3
+    },
+    {
+      "id": 1,
+      "ime": "Filip",
+      "prezime": "Filipovic",
+      "godina": 4
+    },
+    {
+      "id": 5,
+      "ime": "Ivana",
+      "prezime": "Ivanovic",
+      "godina": 3
+    }
+  ]
+}
